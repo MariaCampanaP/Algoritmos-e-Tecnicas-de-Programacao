@@ -21,6 +21,6 @@ Os códigos servem como material de estudo e prática para reforçar os conceito
 
 ## ☕︎ Como Usar
 
-1. Clone o repositório para o seu computador;
+1. Clone o repositório para o seu computador:
    ```bash
    git clone https://github.com/MariaCampanaP/Algoritmos-e-Tecnicas-de-Programacao.git
