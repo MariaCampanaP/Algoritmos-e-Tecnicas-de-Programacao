@@ -7,6 +7,9 @@ Repositório contendo exercícios e projetos da disciplina **Algoritmos e Técni
 Este repositório reúne implementações de conceitos fundamentais de **Algoritmos e Técnicas de Programação**, abordando tópicos como:
 
 - Variáveis e Tipos de Dados;
+- Conceitos Básicos em C;
+- Estruturas Condicionais;
+- Estruturas de Repetição;
 
 ## ☕︎ Objetivo 
 
