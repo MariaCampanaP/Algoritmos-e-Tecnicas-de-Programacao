@@ -32,5 +32,6 @@ Os códigos servem como material de estudo e prática para reforçar os conceito
    ```bash
    git clone https://github.com/MariaCampanaP/Algoritmos-e-Tecnicas-de-Programacao.git
    ````
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
 
